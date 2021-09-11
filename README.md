@@ -14,7 +14,7 @@ git clone https://github.com/vishnureddys/blog.git
 Next, create a virtual environment using the code below. 
 ```
 python -m venv env
-./env/scripts/activate
+./env/Scripts/activate
 ```
 Now, install the requirements. 
 ```
