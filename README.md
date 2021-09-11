@@ -35,4 +35,4 @@ Feel free to raise a pull request if you want to improve the project. Some sugge
 2. Syntax highlighting in content. 
 
 ## License
-This is opensourced under the MIT License
+This is opensourced under the MIT License.
